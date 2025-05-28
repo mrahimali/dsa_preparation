@@ -43,7 +43,7 @@ let arr=[1,2,1,0,0,2,0,1,0,1,2,1];
 
 
 
-// 2nd METHOD 
+// 2nd METHOD   ' Dutch National Flag Algorithm '
 function SortZeroOneTwo2(arr){
     let lo =0;
     let mid=1;
