@@ -1,13 +1,5 @@
-//  ######################    largest SUM Subarray   #########################
+//  #########################    KADANE'S Algorithm   #########################
 
-
-
-// Question 8: find Largest sum contiguous Subarray
-
-
-
-
-// Method : KADANE'S Algorithm 
 
 
 function LargestContSubArray2(arr){
